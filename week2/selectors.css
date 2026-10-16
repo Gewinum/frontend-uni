@@ -1,0 +1,16 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.some {
+    background-color: yellow;
+}
+
+#exact {
+    text-decoration: bold;
+    color: red;
+}
+
+#exact > a {
+    text-decoration: none;
+}
